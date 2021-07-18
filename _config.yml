@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: Harsh Nakhva
 # URL for the Image of the Author
-author-image: Profile/assets/images/Harsh.jpg
+author-image: https://github.com/Harsh052001/Profile/blob/gh-pages/assets/images/Harsh.jpg
 # 60 Words About the Author
 author-about: Harsh Nakhva is young and passionate Python coder, who has a good command in Python, HTML, CSS, Js. Also, he is a creative graphic designer and enthusiastic techie who has a YouTube channel where he discusses tech-stuff. For more information, you can contact me via mail and social media.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
