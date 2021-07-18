@@ -13,7 +13,7 @@ description: Welcome to my page!
 # URL of Image of the Site
 site-image: /assets/images/Harsh.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: harsh nakhva, Harsh Nakhva, Harsh052001, harsh
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -38,7 +38,7 @@ spotify_username: /
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: Harsh052001
 
 # Name of the Author
 author-name: Harsh Nakhva
@@ -97,7 +97,7 @@ exclude:
   - vendor/ruby/
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url:  https://github.com/Harsh052001
 
 # SASS
 sass:
